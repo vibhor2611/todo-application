@@ -2,9 +2,9 @@
 A simple todo application using Spring BOOT and Spring MVC
 
 Technologies Used:
-	Spring Boot 
-	Spring MVC 
-	In Memory Database (H2) 
+	Spring Boot, 
+	Spring MVC, 
+	In Memory Database (H2).
 	
 The project will be able to create a new TODO task, delete the same and mark it as completed. Since, in-memory database is used the data
 is deleted after every restart. If you want to add some pre-existing tasks you can write the queries in (data-h2.sql) file that will be placed parallel
